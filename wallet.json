@@ -1,0 +1,14 @@
+{
+  "name": "测试SRM",
+  "symbol": "TEST_SRM",
+  "description": "这是一个测试代币 SRM，在 Solana 公链上发行。",
+  "image": "https://p.53326.com/png/bigpic/202211/symbols/exit_PNG23.jpg",
+  "attributes": [
+    { "trait_type": "Category", "value": "Test Token" }
+  ],
+  "properties": {
+    "files": [
+      { "uri": "https://p.53326.com/png/bigpic/202211/symbols/exit_PNG23.jpg", "type": "image/png" }
+    ]
+  }
+}
