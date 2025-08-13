@@ -1,0 +1,15 @@
+{
+  "name": "BONK",
+  "symbol": "BONK",
+  "description": "solana公链下代币",
+  "image": "https://raw.githubusercontent.com/itflyll/test/refs/heads/main/bonk.jpg",
+  "attributes": [
+    { "trait_type": "Category", "value": "Test Token" }
+  ],
+  "properties": {
+    "files": [
+      { "uri": "https://raw.githubusercontent.com/itflyll/test/refs/heads/main/SRM.webp", "type": "image/png" }
+    ]
+  },
+  "uri":"https://github.com/itflyll/test/blob/main/BONK.json"
+}
