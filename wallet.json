@@ -2,17 +2,18 @@
   "name": "SRM",
   "symbol": "SRM",
   "description": "这是一个测试代币 SRM，在 Solana 公链上发行。",
-  "image": "https://raw.githubusercontent.com/itflyll/test/refs/heads/main/SRM.webp",
+  "image": "https://github.com/itflyll/test/blob/main/SRM.png?raw=true",
   "attributes": [
     { "trait_type": "Category", "value": "Test Token" }
   ],
   "properties": {
     "files": [
-      { "uri": "https://raw.githubusercontent.com/itflyll/test/refs/heads/main/SRM.webp", "type": "image/png" }
+      { "uri": "https://github.com/itflyll/test/blob/main/SRM.png?raw=true", "type": "image/png" }
     ]
   }
 
 }
+
 
 
 
